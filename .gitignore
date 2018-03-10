@@ -14,7 +14,7 @@ journeymap/
 local/
 logs/
 minecraftinstance.json
-minetweaker.log
+*.log
 mod-config/
 modpack/
 mods/
