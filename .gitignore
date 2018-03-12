@@ -27,3 +27,5 @@ dumps/
 1213309934
 TimeUsage.txt
 backups/
+.ReAuth.cfg
+config/MatterOverdrive/Registry.matter
